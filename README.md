@@ -3,4 +3,5 @@
 只需用在你的CobaltStrike中加载此脚本就可以了   
 之后选中目标右键就会出现新的选项   
 Author:Yihsiwei   
-Video:https://space.bilibili.com/353948151
+Video:https://space.bilibili.com/353948151    
+使用的dir命令统配搜索，项目依旧在优化
